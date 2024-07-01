@@ -5,7 +5,6 @@ void main(List<String> arguments) {
   runApp(const MyApp());
 }
 
-//test
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
